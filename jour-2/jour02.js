@@ -4,6 +4,7 @@ let integer = 102;
 let float = 13.9;
 console.log(integer);
 console.log(float);
+
  // 03- Round
 
  let sum = 1.5;
