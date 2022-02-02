@@ -31,4 +31,4 @@ calculateAge("2000")
 
  function checkProfile (email, userName, password) {
    
- }
+}
