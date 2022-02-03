@@ -98,8 +98,9 @@ let chocolate = cakes.filter((cake) => {
 })
    console.log(chocolate)
 
-// let favorite = cakes.map((dessert) => {
-//     // console.log(favorite)
-//     return (dessert + "Sold out! ")
-// })
-//  console.log(favorite)
+let choco = chocolate.filter((choc) => {
+   return (choc.status ="sold out")
+   
+})
+   console.log(choco)
+
